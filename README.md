@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @reski-id
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Reski
+- 👀 I’m interested in Web and Mobile Programming
+- 🌱 I’m currently learning React
+- 💞️ i love working on teamwork
+- 📫 you can reach me on +6281268501104 or by pesan.reski@gmail.com
 
 <!---
 reski-id/reski-id is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
