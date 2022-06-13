@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Reski
 - 👀 I’m interested in Web and Mobile Programming
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning GOLANG
 - 💞️ i love working on teamwork
 - 📫 you can reach me on +6281268501104 or by pesan.reski@gmail.com
 
